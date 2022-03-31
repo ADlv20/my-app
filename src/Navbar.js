@@ -4,7 +4,7 @@ const Navbar = () => {
     
     <nav className="navbar">
         <h1>
-            The Dojo Blog
+            AD Blog
         </h1>
         <div className="links">
             <a href="/">Home</a>
